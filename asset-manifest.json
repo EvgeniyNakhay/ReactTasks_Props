@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactTasks_Props/static/css/main.073c9b0a.css",
+    "main.js": "/ReactTasks_Props/static/js/main.6440e3a2.js",
+    "static/js/787.2333b430.chunk.js": "/ReactTasks_Props/static/js/787.2333b430.chunk.js",
+    "static/media/logo.svg": "/ReactTasks_Props/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactTasks_Props/index.html",
+    "main.073c9b0a.css.map": "/ReactTasks_Props/static/css/main.073c9b0a.css.map",
+    "main.6440e3a2.js.map": "/ReactTasks_Props/static/js/main.6440e3a2.js.map",
+    "787.2333b430.chunk.js.map": "/ReactTasks_Props/static/js/787.2333b430.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6440e3a2.js"
+  ]
+}
